@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/jeongabok_seafood_1779108839378.png" 
+            src="/assets/images/jeongabok.png" 
             alt="Jeongabok" 
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover opacity-40"

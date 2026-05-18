@@ -36,7 +36,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: '120,000',
     description: '바다의 보물을 가득 담은 난향의 대표 보양식',
     detail: '온 가족이 복을 누린다는 의미를 지닌 전가복입니다. 최고급 전복, 해삼, 관자, 새우와 자연산 송이를 함께 볶아내어 깊은 풍미를 자랑합니다.',
-    image: '/src/assets/images/jeongabok_seafood_1779108839378.png'
+    image: '/assets/images/jeongabok.png'
   },
   {
     id: 4,
@@ -64,7 +64,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: '12,000',
     description: '각종 해산물과 볶은 춘장의 고소한 조화',
     detail: '매일 아침 직접 볶는 춘장과 신선한 오징어, 새우가 듬뿍 들어간 정통 자장면입니다.',
-    image: '/src/assets/images/samsun_jajangmyeon_chunjang_focus_1779108968000_1779108984768.png'
+    image: '/assets/images/jajangmyeon.png'
   },
   {
     id: 7,
@@ -73,7 +73,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: '15,000',
     description: '불맛 가득한 진한 국물과 신선한 해산물',
     detail: '강한 화력으로 야채를 볶아 불맛을 살리고, 장시간 우려낸 전용 육수로 깊은 맛을 낸 명품 짬뽕입니다.',
-    image: '/src/assets/images/special_jjamppong_whole_squid_1779109098171.png'
+    image: '/assets/images/jjamppong.png'
   },
   {
     id: 8,

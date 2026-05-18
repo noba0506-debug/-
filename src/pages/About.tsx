@@ -21,7 +21,7 @@ export default function About() {
           transition={{ duration: 0.8 }}
         >
           <img 
-            src="/src/chef.jpg.jpg" 
+            src="/chef.jpg" 
             alt="Chef Chan Hyeong" 
             referrerPolicy="no-referrer"
             className="w-full aspect-[4/5] object-cover border border-brand-gold/20"
