@@ -1,0 +1,8 @@
+{
+  "name": "찬형각 (璨亨閣)",
+  "description": "고급스럽고 중후한 멋이 살아있는 정통 중화요리 전문점 '찬형각'",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
